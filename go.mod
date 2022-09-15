@@ -1,4 +1,4 @@
-module Noname-API
+module "github.com/poppigy/Noname-API"
 
 go 1.18
 
